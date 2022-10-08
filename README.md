@@ -2,7 +2,7 @@
 <h3 align="left">A passionate frontend developer with a cursory backend knowledge</h3>
 
 - 📫 How to reach me **https://t.me/kekholic**
-<img align="right" src="https://i0.wp.com/i.giphy.com/media/yYSSBtDgbbRzq/giphy-downsized.gif" alt="rofl" width="400" /></p>
+<img align="right" src="https://i0.wp.com/i.giphy.com/media/yYSSBtDgbbRzq/giphy-downsized.gif" alt="rofl" width="320" /></p>
 - ⚡ Fun fact **I think I am funny**. Don't believe me? Take a look at the gif on the right!
 
 <h3 align="left">Connect with me:</h3>
